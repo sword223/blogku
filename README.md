@@ -1,4 +1,4 @@
-![ff58610d35710f675b10d3a62938b1d](https://github.com/user-attachments/assets/a8154012-c125-459b-bfaa-c074ba505a33)# blog小程序
+# blog小程序
 ## 1、介绍
 ### 1.1、主要功能
 - 文章分页展示、标签
