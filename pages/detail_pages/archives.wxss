@@ -1,0 +1,9 @@
+.content.data-v-437cf101 {
+  position: relative;
+  width: 100%;
+  padding: 30rpx;
+}
+.content .time-line__title.data-v-437cf101 {
+  font-size: 32rpx;
+  margin-bottom: 20rpx;
+}

@@ -1,0 +1,1 @@
+<view class="{{['data-v-619104fb', g]}}"><swiper class="{{['data-v-619104fb', c]}}" autoplay="{{d}}" interval="{{e}}" vertical="{{f}}" circular><swiper-item wx:for="{{a}}" wx:for-item="item" wx:key="b" class="{{['tn-text-ellipsis-1', 'data-v-619104fb', b]}}" catchtap="{{item.c}}">{{item.a}}</swiper-item></swiper></view>

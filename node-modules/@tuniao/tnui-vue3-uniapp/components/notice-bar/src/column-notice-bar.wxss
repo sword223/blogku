@@ -1,0 +1,15 @@
+.tn-column-notice-bar.data-v-619104fb {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.tn-column-notice-bar__swiper.data-v-619104fb {
+  position: relative;
+  width: 100%;
+  height: 1em;
+}
+.tn-column-notice-bar__swiper-item.data-v-619104fb {
+  position: relative;
+  width: 100%;
+  line-height: 1.1em;
+}

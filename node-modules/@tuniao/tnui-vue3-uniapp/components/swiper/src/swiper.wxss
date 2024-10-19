@@ -1,0 +1,135 @@
+.tn-swiper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  /* 指示器 start */
+  /* 指示器类型 start */
+  /* 指示器类型 end */
+  /* 指示器 end */
+}
+.tn-swiper__wrapper {
+  width: 100%;
+  height: 100%;
+}
+.tn-swiper__swiper {
+  width: 100%;
+  height: 100%;
+}
+.tn-swiper__swiper-item {
+  width: 100%;
+  height: 100%;
+  overflow: visible !important;
+}
+.tn-swiper__swiper-item>view {
+  width: 100%;
+  height: 100%;
+}
+.tn-swiper__indicator {
+  position: absolute;
+  /* 设置指示器的位置 start */
+  /* 设置指示器的位置 end */
+}
+.tn-swiper__indicator--left-top {
+  left: 30rpx;
+  top: 30rpx;
+  transform: translateY(-50%);
+}
+.tn-swiper__indicator--left-top .tn-swiper__indicator-number {
+  margin-top: 20rpx;
+}
+.tn-swiper__indicator--center-top {
+  top: 30rpx;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.tn-swiper__indicator--center-top .tn-swiper__indicator-number {
+  margin-top: 20rpx;
+}
+.tn-swiper__indicator--right-top {
+  right: 30rpx;
+  top: 30rpx;
+  transform: translateY(-50%);
+}
+.tn-swiper__indicator--right-top .tn-swiper__indicator-number {
+  margin-top: 20rpx;
+}
+.tn-swiper__indicator--left-bottom {
+  left: 30rpx;
+  bottom: 30rpx;
+  transform: translateY(50%);
+}
+.tn-swiper__indicator--left-bottom .tn-swiper__indicator-number {
+  margin-bottom: 20rpx;
+}
+.tn-swiper__indicator--center-bottom {
+  bottom: 30rpx;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+.tn-swiper__indicator--center-bottom .tn-swiper__indicator-number {
+  margin-bottom: 20rpx;
+}
+.tn-swiper__indicator--right-bottom {
+  right: 30rpx;
+  bottom: 30rpx;
+  transform: translateY(50%);
+}
+.tn-swiper__indicator--right-bottom .tn-swiper__indicator-number {
+  margin-bottom: 20rpx;
+}
+.tn-swiper__indicator-line {
+  position: relative;
+  width: 100rpx;
+  height: 8rpx;
+}
+.tn-swiper__indicator-line .indicator-wrapper {
+  width: 100%;
+  height: 100%;
+}
+.tn-swiper__indicator-line .indicator-wrapper .active-block {
+  position: absolute;
+  height: 100%;
+  left: 0;
+  top: 0;
+  transition: transform 0.3s ease-out;
+}
+.tn-swiper__indicator-dot {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: auto;
+}
+.tn-swiper__indicator-dot .indicator-wrapper {
+  display: flex;
+  align-items: center;
+}
+.tn-swiper__indicator-dot .indicator-wrapper .dot-item {
+  position: relative;
+  width: 16rpx;
+  height: 16rpx;
+  border-radius: 50%;
+  margin-right: 10rpx;
+  transition-property: width, border-radius;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+}
+.tn-swiper__indicator-dot .indicator-wrapper .dot-item.active {
+  width: 32rpx;
+  border-radius: 30rpx;
+}
+.tn-swiper__indicator-number {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: auto;
+}
+.tn-swiper__indicator-number .indicator-wrapper {
+  display: flex;
+  align-items: center;
+  line-height: 1;
+  padding: 10rpx 24rpx;
+  border-radius: 100rpx;
+}
+.tn-swiper__indicator-number .indicator-wrapper .sep {
+  margin: 0rpx 6rpx;
+}

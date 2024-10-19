@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tn-avatar": "../@tuniao/tnui-vue3-uniapp/components/avatar/src/avatar",
+    "comment-bottom-operation": "./comment-bottom-operation"
+  }
+}

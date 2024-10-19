@@ -1,0 +1,13 @@
+.tn-water-fall.data-v-65883605 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /* 左右两边容器 start */
+  /* 左右两边容器 end */
+}
+.tn-water-fall__container.data-v-65883605 {
+  width: 50%;
+  height: -moz-fit-content;
+  height: fit-content;
+}

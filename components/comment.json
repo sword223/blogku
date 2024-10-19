@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tn-comment-list": "../node-modules/tnuiv3p-tn-comment-list/index",
+    "tn-popup": "../node-modules/@tuniao/tnui-vue3-uniapp/components/popup/src/popup",
+    "tn-form": "../node-modules/@tuniao/tnui-vue3-uniapp/components/form/src/form",
+    "tn-form-item": "../node-modules/@tuniao/tnui-vue3-uniapp/components/form/src/form-item",
+    "tn-button": "../node-modules/@tuniao/tnui-vue3-uniapp/components/button/src/button",
+    "tn-input": "../node-modules/@tuniao/tnui-vue3-uniapp/components/input/src/input",
+    "tn-empty": "../node-modules/@tuniao/tnui-vue3-uniapp/components/empty/src/empty"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "文章搜索",
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "tn-navbar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar",
+    "tn-search-box": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/search-box/src/search-box",
+    "mp-html": "../../components/uni-app/components/mp-html/mp-html"
+  }
+}

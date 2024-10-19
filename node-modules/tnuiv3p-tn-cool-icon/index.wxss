@@ -1,0 +1,266 @@
+.tn-cool-icon.data-v-f58628ed {
+  position: relative;
+  display: inline-block;
+  width: 100rpx;
+  height: 100rpx;
+  font-size: 60rpx;
+  /* 新拟态 start */
+  /* 新拟态 end */
+  /* 正圆 start */
+  /* 正圆 end */
+  /* 椭圆 start */
+  /* 椭圆 end */
+  /* 圆角矩形 start */
+  /* 圆角矩形 end */
+  /* 三角形 start */
+  /* 三角形 end */
+  /* 胶囊 start */
+  /* 胶囊 end */
+  /* 暗黑金边 start */
+  /* 暗黑金边 end */
+  /* 花花 start */
+  /* 花花 end */
+}
+.tn-cool-icon__bg.data-v-f58628ed {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  z-index: 9;
+}
+.tn-cool-icon__icon.data-v-f58628ed {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: inherit;
+  line-height: 1;
+  z-index: 10;
+  border-radius: inherit;
+}
+.tn-cool-icon--mimic.data-v-f58628ed {
+  border-radius: 50%;
+  box-shadow: 0px 10px 30px rgba(70, 23, 129, 0.12), 0px -8px 40px white, inset 0px -10px 10px rgba(70, 23, 129, 0.05), inset 0px 10px 20px white;
+}
+.tn-cool-icon--circle.data-v-f58628ed {
+  border-radius: 50%;
+}
+.tn-cool-icon--circle .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: " ";
+  display: block;
+  background: inherit;
+  filter: blur(5px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  opacity: 0.4;
+  transform-origin: 0 0;
+  border-radius: inherit;
+  transform: scale(1, 1);
+}
+.tn-cool-icon--circle .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg.png);
+}
+.tn-cool-icon--oval.data-v-f58628ed {
+  border-radius: 43% 57% 43% 57%/57% 43% 57% 43%;
+}
+.tn-cool-icon--oval .tn-cool-icon__bg.data-v-f58628ed {
+  transform: rotate(-19deg);
+}
+.tn-cool-icon--oval .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: " ";
+  display: block;
+  background: inherit;
+  filter: blur(5px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  opacity: 0.4;
+  transform-origin: 0 0;
+  border-radius: inherit;
+  transform: scale(1, 1);
+}
+.tn-cool-icon--oval .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg5.png);
+}
+.tn-cool-icon--square.data-v-f58628ed {
+  border-radius: 25%;
+}
+.tn-cool-icon--square .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: " ";
+  display: block;
+  background: inherit;
+  filter: blur(5px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  opacity: 0.4;
+  transform-origin: 0 0;
+  border-radius: inherit;
+  transform: scale(1, 1);
+}
+.tn-cool-icon--square .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg6.png);
+}
+.tn-cool-icon--triangle.data-v-f58628ed {
+  border-radius: 68% 32% 40% 60%/44% 34% 66% 56%;
+}
+.tn-cool-icon--triangle .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: " ";
+  display: block;
+  background: inherit;
+  filter: blur(5px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  opacity: 0.4;
+  transform-origin: 0 0;
+  border-radius: inherit;
+  transform: scale(1, 1);
+}
+.tn-cool-icon--triangle .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg3.png);
+}
+.tn-cool-icon--capsule .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: " ";
+  display: block;
+  background: inherit;
+  filter: blur(5px);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 5px;
+  left: 5px;
+  z-index: -1;
+  opacity: 0.4;
+  transform-origin: 0 0;
+  border-radius: inherit;
+  transform: scale(1, 1);
+}
+.tn-cool-icon--capsule .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg6.png);
+}
+.tn-cool-icon--dark-goldborder.data-v-f58628ed {
+  border-radius: 50%;
+}
+.tn-cool-icon--dark-goldborder .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: " ";
+  position: absolute;
+  z-index: inherit;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  bottom: 0;
+  border-radius: inherit;
+  opacity: 1;
+  transform: scale(1, 1);
+  background-size: 100% 100%;
+  background-image: url(https://resource.tuniaokj.com/images/cool_bg_image/icon_bg6.png);
+}
+.tn-cool-icon--flower .tn-cool-icon__bg.data-v-f58628ed {
+  transform-origin: center center;
+  transform: rotate(90deg);
+}
+.tn-cool-icon--flower .tn-cool-icon__bg.data-v-f58628ed::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  border-radius: inherit;
+  transform-origin: center center;
+  transform: rotate(60deg);
+  opacity: 0.8;
+}
+.tn-cool-icon--flower .tn-cool-icon__bg.data-v-f58628ed::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  border-radius: inherit;
+  transform-origin: center center;
+  transform: rotate(-60deg);
+  opacity: 0.8;
+}

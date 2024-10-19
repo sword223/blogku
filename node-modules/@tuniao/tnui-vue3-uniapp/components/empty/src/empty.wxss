@@ -1,0 +1,53 @@
+.tn-empty.data-v-76901d25 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  /* 尺寸 start */
+  /* 尺寸 end */
+}
+.tn-empty__icon.data-v-76901d25 {
+  font-size: 80rpx;
+  width: 80rpx;
+  height: 80rpx;
+}
+.tn-empty__icon.is-custom.data-v-76901d25 {
+  font-size: inherit;
+  width: auto;
+  height: auto;
+}
+.tn-empty__tips.data-v-76901d25 {
+  margin-top: 8rpx;
+  font-size: 28rpx;
+}
+.tn-empty__tips.is-custom.data-v-76901d25 {
+  font-size: inherit;
+}
+.tn-empty--sm .tn-empty__icon.data-v-76901d25 {
+  font-size: 60rpx;
+  width: 60rpx;
+  height: 60rpx;
+}
+.tn-empty--sm .tn-empty__tips.data-v-76901d25 {
+  font-size: 24rpx;
+}
+.tn-empty--lg .tn-empty__icon.data-v-76901d25 {
+  font-size: 100rpx;
+  width: 100rpx;
+  height: 100rpx;
+}
+.tn-empty--lg .tn-empty__tips.data-v-76901d25 {
+  font-size: 32rpx;
+}
+.tn-empty--xl .tn-empty__icon.data-v-76901d25 {
+  font-size: 120rpx;
+  width: 120rpx;
+  height: 120rpx;
+}
+.tn-empty--xl .tn-empty__tips.data-v-76901d25 {
+  font-size: 38rpx;
+}

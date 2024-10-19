@@ -1,0 +1,1 @@
+<view class="flex justify-center"><tn-empty wx:if="{{a}}" u-i="6382c44a-0" bind:__l="__l" u-p="{{a}}"/></view>

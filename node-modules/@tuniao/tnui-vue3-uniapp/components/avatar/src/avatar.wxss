@@ -1,0 +1,84 @@
+.tn-avatar.data-v-d772262b {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  transition: margin-left 0.25s linear;
+  width: 70rpx;
+  height: 70rpx;
+  /* 头像类型 start */
+  /* 头像类型 end */
+  /* 头像形状 start */
+  /* 头像形状 end */
+  /* 尺寸 start */
+  /* 尺寸 end */
+}
+.tn-avatar__image.data-v-d772262b {
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+}
+.tn-avatar__image .image.data-v-d772262b {
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  will-change: transform;
+}
+.tn-avatar__icon.data-v-d772262b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 40rpx;
+}
+.tn-avatar__custom.data-v-d772262b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  font-size: 40rpx;
+}
+.tn-avatar--circle.data-v-d772262b {
+  border-radius: 50%;
+}
+.tn-avatar--square.data-v-d772262b {
+  border-radius: 12rpx;
+}
+.tn-avatar--sm.data-v-d772262b {
+  width: 50rpx;
+  height: 50rpx;
+  /* 当为图标头像时对应的尺寸 start */
+  /* 当为图标头像时对应的尺寸 end */
+}
+.tn-avatar--sm .tn-avatar__icon.data-v-d772262b {
+  font-size: 28rpx;
+}
+.tn-avatar--sm .tn-avatar__custom.data-v-d772262b {
+  font-size: 28rpx;
+}
+.tn-avatar--lg.data-v-d772262b {
+  width: 90rpx;
+  height: 90rpx;
+  /* 当为图标头像时对应的尺寸 start */
+  /* 当为图标头像时对应的尺寸 end */
+}
+.tn-avatar--lg .tn-avatar__icon.data-v-d772262b {
+  font-size: 50rpx;
+}
+.tn-avatar--lg .tn-avatar__custom.data-v-d772262b {
+  font-size: 50rpx;
+}
+.tn-avatar--xl.data-v-d772262b {
+  width: 120rpx;
+  height: 120rpx;
+  /* 当为图标头像时对应的尺寸 start */
+  /* 当为图标头像时对应的尺寸 end */
+}
+.tn-avatar--xl .tn-avatar__icon.data-v-d772262b {
+  font-size: 70rpx;
+}
+.tn-avatar--xl .tn-avatar__custom.data-v-d772262b {
+  font-size: 70rpx;
+}

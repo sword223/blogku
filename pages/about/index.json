@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "关于",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tn-avatar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/avatar/src/avatar",
+    "tn-icon": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/icon/src/icon",
+    "tn-button": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/button/src/button",
+    "tn-cool-icon": "../../node-modules/tnuiv3p-tn-cool-icon/index",
+    "tn-popup": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/popup/src/popup"
+  }
+}

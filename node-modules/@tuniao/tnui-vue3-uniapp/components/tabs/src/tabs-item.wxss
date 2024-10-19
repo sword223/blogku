@@ -1,0 +1,38 @@
+.tn-tabs-item.data-v-47248993 {
+  flex: 1;
+  position: relative;
+  font-weight: normal;
+  height: 100%;
+  transition-property: color, font-size;
+  transition-duration: 0.3s;
+  transition-timing-function: linear;
+  /* 允许滚动下的元素 start */
+  /* 允许滚动下的元素 end */
+  /* 是否加粗 start */
+  /* 是否加粗 end */
+  /* 内容 start */
+  /* 内容 end */
+}
+.tn-tabs-item--scroll.data-v-47248993 {
+  flex: auto;
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding: 0rpx 30rpx;
+}
+.tn-tabs-item--bold.data-v-47248993 {
+  font-weight: 800;
+}
+.tn-tabs-item__content.data-v-47248993 {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tn-tabs-item__content__value.data-v-47248993 {
+  position: relative;
+}
+.tn-tabs-item.is-no-bar .tn-tabs-item__content.data-v-47248993 {
+  align-items: flex-end;
+}

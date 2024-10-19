@@ -1,0 +1,14 @@
+.top_image.data-v-6b4e7e2d {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: -1;
+  background: url("https://resource.tuniaokj.com/images/my/my-bg4.png") no-repeat;
+  background-size: 100% auto;
+}
+.top_image.data-v-6b4e7e2d::before {
+  content: "";
+  display: block;
+  padding-top: 100%;
+}

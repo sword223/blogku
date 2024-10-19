@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "相册",
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "tn-navbar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar",
+    "tn-tabs": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/tabs/src/tabs",
+    "tn-tabs-item": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/tabs/src/tabs-item",
+    "tn-photo-album": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/photo-album/src/photo-album",
+    "tn-water-fall": "../../components/water-fall/src/water-fall",
+    "tn-lazy-load": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/lazy-load/src/lazy-load",
+    "tn-empty": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/empty/src/empty",
+    "tn-loadmore": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/loadmore/src/loadmore"
+  }
+}

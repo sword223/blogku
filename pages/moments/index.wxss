@@ -1,0 +1,80 @@
+.moment-media.data-v-d049abad {
+  width: 100%;
+  display: table;
+}
+.moment-media>view.data-v-d049abad {
+  overflow: hidden;
+  float: left;
+}
+.moment-media image.data-v-d049abad,.moment-media video.data-v-d049abad {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display: block;
+  -o-object-fit: cover;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+.moment-media .moment-media-item.data-v-d049abad {
+  border-radius: 11.2rpx;
+}
+.moment-media .moment-media-item .video-js.data-v-d049abad {
+  width: 100%;
+}
+.moment-media .moment-media-item .video-js .vjs-fluid.data-v-d049abad,.moment-media .moment-media-item .video-js .vjs-16-9.data-v-d049abad,.moment-media .moment-media-item .video-js .vjs-4-3.data-v-d049abad {
+  /* 视频占满容器高度 */
+  height: 100%;
+  background-color: #161616;
+}
+.moment-media.medium-1 .moment-media-item.data-v-d049abad {
+  width: 100%;
+}
+.moment-media.medium-2 .moment-media-item.data-v-d049abad,.moment-media.medium-4 .moment-media-item.data-v-d049abad {
+  width: 48%;
+  margin: 1%;
+}
+.moment-media.medium-3 .moment-media-item.data-v-d049abad {
+  width: 31.33%;
+  margin: 1%;
+}
+.moment-media.medium-3 .moment-media-item.data-v-d049abad:nth-child(1) {
+  width: 64.67%;
+}
+.moment-media.medium-5 .moment-media-item.data-v-d049abad,.moment-media.medium-8 .moment-media-item.data-v-d049abad {
+  width: 31.33%;
+  margin: 1%;
+}
+.moment-media.medium-5 .moment-media-item.data-v-d049abad:nth-child(n+1):nth-child(-n+2),.moment-media.medium-8 .moment-media-item.data-v-d049abad:nth-child(n+1):nth-child(-n+2) {
+  width: 48%;
+  margin: 1%;
+}
+.moment-media.medium-6 .moment-media-item.data-v-d049abad {
+  width: 31.33%;
+  margin: 1.1% 1%;
+}
+.moment-media.medium-6 .moment-media-item.data-v-d049abad:nth-child(1) {
+  width: 64.67%;
+}
+.moment-media.medium-7 .moment-media-item.data-v-d049abad {
+  width: 31.33%;
+  margin: 1%;
+}
+.moment-media.medium-7 .moment-media-item.data-v-d049abad:nth-child(n+4):nth-child(-n+7) {
+  width: 23%;
+}
+.moment-media.medium-7 .moment-media-item.data-v-d049abad {
+  width: 31.33%;
+  margin: 1%;
+}
+.html-content.data-v-d049abad .tag {
+  display: flex;
+}
+.html-content.data-v-d049abad .tag text {
+  color: #1e40af;
+  background: #eff6ff;
+  border-radius: 14px;
+  padding: 3px 10px;
+}
+.html-content.data-v-d049abad .tag text::before {
+  content: "#";
+}

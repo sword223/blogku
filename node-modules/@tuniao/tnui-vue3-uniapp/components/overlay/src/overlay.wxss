@@ -1,0 +1,15 @@
+.tn-overlay.data-v-40a804f4 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition-property: all;
+  transition-timing-function: ease;
+  visibility: hidden;
+  opacity: 0;
+}
+.tn-overlay--show.data-v-40a804f4 {
+  opacity: 1;
+  visibility: visible;
+}

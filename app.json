@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/index",
+    "pages/photos/index",
+    "pages/moments/index",
+    "pages/about/index",
+    "pages/detail_pages/article",
+    "pages/tool-pages/createPhotos",
+    "pages/tool-pages/createMoments",
+    "pages/detail_pages/friend",
+    "pages/detail_pages/archives",
+    "pages/about/sub-pages/contactMe",
+    "pages/tool-pages/search",
+    "pages/about/sub-pages/statement",
+    "pages/detail_pages/authorize"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#000",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/category/index",
+        "iconPath": "static/images/tabbar/category.png",
+        "selectedIconPath": "static/images/tabbar/category_active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/photos/index",
+        "iconPath": "static/images/tabbar/photos.png",
+        "selectedIconPath": "static/images/tabbar/photos_active.png",
+        "text": "相册"
+      },
+      {
+        "pagePath": "pages/moments/index",
+        "iconPath": "static/images/tabbar/moments.png",
+        "selectedIconPath": "static/images/tabbar/moments_active.png",
+        "text": "瞬间"
+      },
+      {
+        "pagePath": "pages/about/index",
+        "iconPath": "static/images/tabbar/about.png",
+        "selectedIconPath": "static/images/tabbar/about_active.png",
+        "text": "关于"
+      }
+    ]
+  },
+  "themeLocation": "theme.json",
+  "lazyCodeLoading": "requiredComponents",
+  "darkmode": true,
+  "usingComponents": {}
+}

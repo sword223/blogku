@@ -1,0 +1,48 @@
+.tn-tabs.data-v-e28e073f {
+  position: relative;
+  width: 100%;
+  /* scroll-view start */
+  /* scroll-view end */
+  /* 内容容器 start */
+  /* 内容容器 end */
+  /* bar 滑块 start */
+  /* bar 滑块 end */
+  /* 底部阴影 start */
+  /* 底部阴影 end */
+}
+.tn-tabs__scroll-view.data-v-e28e073f {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.tn-tabs__container.data-v-e28e073f {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.tn-tabs__container.is-scroll.data-v-e28e073f {
+  width: -moz-max-content;
+  width: max-content;
+  max-width: none;
+  overflow: unset;
+}
+.tn-tabs__bar-container.data-v-e28e073f {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transition-property: left, opacity;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+}
+.tn-tabs__bar.data-v-e28e073f {
+  position: relative;
+  height: 10rpx;
+  border-radius: 3000rpx;
+}
+.tn-tabs--bottom-shadow.data-v-e28e073f {
+  box-shadow: 0rpx 5rpx 16rpx 0rpx rgba(0, 0, 0, 0.05);
+}

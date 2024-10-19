@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tn-icon": "../../icon/src/icon",
+    "tn-column-notice-bar": "./column-notice-bar",
+    "tn-row-notice-bar": "./row-notice-bar"
+  }
+}

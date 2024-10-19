@@ -1,0 +1,1 @@
+<view class="{{[f, g]}}" catchtap="{{h}}"><view class="{{[b, c]}}" style="{{d}}"><tn-icon wx:if="{{a}}" u-i="58ada1ef-0" bind:__l="__l" u-p="{{a}}"/></view><view class="{{[e]}}"><slot/></view></view>

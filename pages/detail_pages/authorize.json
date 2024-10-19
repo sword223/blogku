@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "授权说明",
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "tn-navbar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar"
+  }
+}

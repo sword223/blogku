@@ -1,0 +1,71 @@
+.tn-loadmore.data-v-17b3fce8 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  /* 内容 start */
+  /* 内容 end */
+  /* 点内容 start */
+  /* 点内容 end */
+  /* 尺寸 start */
+  /* 尺寸 end */
+}
+.tn-loadmore__content.data-v-17b3fce8 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* 左右两边的横线 start */
+  /* 左右两边的横线 end */
+}
+.tn-loadmore__content.data-v-17b3fce8::before,.tn-loadmore__content.data-v-17b3fce8::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 100rpx;
+  height: 1rpx;
+  border-radius: 1000rpx;
+  background-color: var(--tn-color-gray);
+}
+.tn-loadmore__content.data-v-17b3fce8::before {
+  left: 0%;
+  transform: translate(calc(-100% - 20rpx), -50%);
+}
+.tn-loadmore__content.data-v-17b3fce8::after {
+  left: 100%;
+  transform: translate(20rpx, -50%);
+}
+.tn-loadmore__dot.data-v-17b3fce8 {
+  width: 28rpx;
+  height: 28rpx;
+  border-radius: 50%;
+}
+.tn-loadmore--sm.data-v-17b3fce8 {
+  font-size: 24rpx;
+}
+.tn-loadmore--sm .tn-loadmore__dot.data-v-17b3fce8 {
+  width: 24rpx;
+  height: 24rpx;
+  border-radius: 50%;
+}
+.tn-loadmore--lg.data-v-17b3fce8 {
+  font-size: 32rpx;
+}
+.tn-loadmore--lg .tn-loadmore__dot.data-v-17b3fce8 {
+  width: 32rpx;
+  height: 32rpx;
+  border-radius: 50%;
+}
+.tn-loadmore--xl.data-v-17b3fce8 {
+  font-size: 36rpx;
+}
+.tn-loadmore--xl .tn-loadmore__dot.data-v-17b3fce8 {
+  width: 36rpx;
+  height: 36rpx;
+  border-radius: 50%;
+}
+.tn-loadmore.is-loading.is-loading-icon .tn-loadmore__text.data-v-17b3fce8 {
+  margin-left: 10rpx;
+}

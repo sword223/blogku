@@ -1,0 +1,138 @@
+.tn-search-box.data-v-0e939177 {
+  position: relative;
+  height: 74rpx;
+  padding: 10rpx 10rpx 10rpx 20rpx;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  line-height: 1;
+  font-size: 28rpx;
+  /* 内容容器 start */
+  /* 内容容器 end */
+  /* 占位符内容 start */
+  /* 占位符内容 end */
+  /* 清除内容 start */
+  /* 清除内容 end */
+  /* 搜索按钮 start */
+  /* 搜索按钮 end */
+  /* 边框 start */
+  /* 边框 end */
+  /* 搜索框形状 start */
+  /* 搜索框形状 end */
+  /* 设置尺寸 start */
+  /* 设置尺寸 end */
+}
+.tn-search-box__content.data-v-0e939177 {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}
+.tn-search-box__input.data-v-0e939177 {
+  flex-grow: 1;
+  background-color: transparent;
+  color: inherit;
+  font-size: inherit;
+  padding: 0rpx;
+  height: 100%;
+  min-height: 100%;
+  line-height: 1;
+}
+.tn-search-box__input--left.data-v-0e939177 {
+  text-align: left;
+}
+.tn-search-box__input--center.data-v-0e939177 {
+  text-align: center;
+}
+.tn-search-box__input--right.data-v-0e939177 {
+  text-align: right;
+}
+.tn-search-box__placeholder.data-v-0e939177 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.tn-search-box__placeholder--left.data-v-0e939177 {
+  justify-content: flex-start;
+}
+.tn-search-box__placeholder--center.data-v-0e939177 {
+  justify-content: center;
+}
+.tn-search-box__placeholder--right.data-v-0e939177 {
+  justify-content: flex-end;
+}
+.tn-search-box__placeholder-icon.data-v-0e939177 {
+  margin-right: 8rpx;
+  font-size: 33.6rpx;
+}
+.tn-search-box__clear-button.data-v-0e939177 {
+  color: var(--tn-color-gray);
+  font-size: 34rpx;
+  margin-left: 12rpx;
+}
+.tn-search-box__search-button.data-v-0e939177 {
+  flex-shrink: 0;
+  padding: 0rpx 26rpx;
+  height: 100%;
+  margin-left: 10rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tn-search-box--border.data-v-0e939177 {
+  border-width: 1rpx;
+  border-style: solid;
+}
+.tn-search-box--square.data-v-0e939177 {
+  border-radius: 15rpx;
+}
+.tn-search-box--square .tn-search-box__search-button.data-v-0e939177 {
+  border-radius: 15rpx;
+}
+.tn-search-box--round.data-v-0e939177 {
+  border-radius: 1000rpx;
+}
+.tn-search-box--round .tn-search-box__search-button.data-v-0e939177 {
+  border-radius: 1000rpx;
+}
+.tn-search-box--round .tn-search-box__input.data-v-0e939177 {
+  padding-left: 16rpx;
+}
+.tn-search-box--round .tn-search-box__input--left.data-v-0e939177 {
+  padding-left: 0rpx;
+}
+.tn-search-box--sm.data-v-0e939177 {
+  height: 64rpx;
+  font-size: 24rpx;
+}
+.tn-search-box--sm .tn-search-box__placeholder-icon.data-v-0e939177 {
+  font-size: 28.8rpx;
+}
+.tn-search-box--sm .tn-search-box__search-button.data-v-0e939177 {
+  padding: 0rpx 20rpx;
+}
+.tn-search-box--lg.data-v-0e939177 {
+  height: 86rpx;
+  font-size: 32rpx;
+}
+.tn-search-box--lg .tn-search-box__placeholder-icon.data-v-0e939177 {
+  font-size: 38.4rpx;
+}
+.tn-search-box--lg .tn-search-box__search-button.data-v-0e939177 {
+  padding: 0rpx 26rpx;
+}
+.tn-search-box--xl.data-v-0e939177 {
+  height: 94rpx;
+  font-size: 36rpx;
+}
+.tn-search-box--xl .tn-search-box__placeholder-icon.data-v-0e939177 {
+  font-size: 43.2rpx;
+}
+.tn-search-box--xl .tn-search-box__search-button.data-v-0e939177 {
+  padding: 0rpx 26rpx;
+}
+.tn-search-box--sm.tn-search-box--square.data-v-0e939177 {
+  border-radius: 8rpx;
+}
+.tn-search-box--sm.tn-search-box--square .tn-search-box__search-button.data-v-0e939177 {
+  border-radius: 8rpx;
+}

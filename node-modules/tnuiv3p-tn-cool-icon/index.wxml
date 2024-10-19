@@ -1,0 +1,1 @@
+<view class="{{['data-v-f58628ed', e, f]}}" style="{{g}}" bindtap="{{h}}"><view class="{{['data-v-f58628ed', a]}}" style="{{b}}"/><view class="{{['data-v-f58628ed', d]}}"><tn-icon wx:if="{{c}}" class="data-v-f58628ed" u-i="f58628ed-0" bind:__l="__l" u-p="{{c}}"/></view></view>

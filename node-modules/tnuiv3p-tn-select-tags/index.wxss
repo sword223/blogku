@@ -1,0 +1,15 @@
+.tn-select-tags.data-v-1b195a5e {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.tn-select-tags__tag-item.data-v-1b195a5e {
+  flex-grow: 0;
+  flex-shrink: 0;
+  line-height: 1;
+  padding: 14rpx 24rpx;
+  border-radius: 8rpx;
+  margin-top: 30rpx;
+  margin-right: 20rpx;
+}

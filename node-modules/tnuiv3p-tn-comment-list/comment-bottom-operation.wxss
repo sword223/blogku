@@ -1,0 +1,63 @@
+.tn-tn-comment-bottom-operation.data-v-0a10636a {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 1;
+  /* 底部操作栏左边内容 start */
+  /* 底部操作栏左边内容 end */
+  /* 底部操作栏右边内容 start */
+  /* 底部操作栏右边内容 end */
+}
+.tn-tn-comment-bottom-operation__left.data-v-0a10636a {
+  display: flex;
+  align-items: center;
+  color: var(--tn-color-gray);
+}
+.tn-tn-comment-bottom-operation__date.data-v-0a10636a {
+  font-size: 24rpx;
+}
+.tn-tn-comment-bottom-operation__position.data-v-0a10636a {
+  position: relative;
+  margin-left: 40rpx;
+  font-size: 24rpx;
+}
+.tn-tn-comment-bottom-operation__position.data-v-0a10636a::before {
+  content: "";
+  width: 6rpx;
+  height: 6rpx;
+  border-radius: 50%;
+  background-color: var(--tn-color-gray);
+  position: absolute;
+  left: -20rpx;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.tn-tn-comment-bottom-operation__reply.data-v-0a10636a {
+  color: var(--tn-color-gray-dark);
+  margin-left: 30rpx;
+}
+.tn-tn-comment-bottom-operation__delete.data-v-0a10636a {
+  color: var(--tn-color-red);
+  margin-left: 24rpx;
+}
+.tn-tn-comment-bottom-operation__right.data-v-0a10636a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 180rpx;
+}
+.tn-tn-comment-bottom-operation__like-container.data-v-0a10636a {
+  display: flex;
+  align-items: center;
+}
+.tn-tn-comment-bottom-operation__icon.data-v-0a10636a {
+  font-size: 38rpx;
+}
+.tn-tn-comment-bottom-operation__like-value.data-v-0a10636a {
+  font-size: 24rpx;
+  color: var(--tn-color-gray-dark);
+  margin-left: 8rpx;
+  margin-top: 4rpx;
+}

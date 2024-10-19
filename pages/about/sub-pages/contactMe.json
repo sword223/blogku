@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "社交信息",
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "tn-navbar": "../../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar",
+    "tn-avatar": "../../../node-modules/@tuniao/tnui-vue3-uniapp/components/avatar/src/avatar"
+  }
+}

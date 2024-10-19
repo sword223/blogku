@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationStyle": "custom",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "tn-swiper": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/swiper/src/swiper",
+    "tn-navbar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar",
+    "tn-notice-bar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/notice-bar/src/notice-bar",
+    "tn-loadmore": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/loadmore/src/loadmore",
+    "article-list": "../../components/article-list/article-list"
+  }
+}

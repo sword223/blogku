@@ -1,0 +1,128 @@
+.tn-tn-comment-list.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  padding: 30rpx;
+  /* 评论主列表 start */
+  /* 评论主列表 end */
+  /* 主评论下的列表 start */
+  /* 主评论下的列表 end */
+  /* 查看更多 操作 start */
+  /* 查看更多 操作 end */
+  /* 评论信息 start */
+  /* 评论信息 end */
+}
+.tn-tn-comment-list__item.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  margin-top: 40rpx;
+}
+.tn-tn-comment-list__item.data-v-2c7daae8:first-of-type {
+  margin-top: 0rpx;
+}
+.tn-tn-comment-list__item-data.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  display: flex;
+}
+.tn-tn-comment-list__item-data--left.data-v-2c7daae8 {
+  flex-shrink: 0;
+  flex-grow: 0;
+  margin-right: 20rpx;
+}
+.tn-tn-comment-list__item-data--right.data-v-2c7daae8 {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.tn-tn-comment-list__main-data.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+}
+.tn-tn-comment-list__reply-data.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+.tn-tn-comment-list__reply-item.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 30rpx;
+  display: flex;
+}
+.tn-tn-comment-list__reply-item.data-v-2c7daae8:first-of-type {
+  margin-top: 20rpx;
+}
+.tn-tn-comment-list__reply-item--left.data-v-2c7daae8 {
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 20rpx;
+}
+.tn-tn-comment-list__reply-item--right.data-v-2c7daae8 {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.tn-tn-comment-list__show-more-operation.data-v-2c7daae8 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 24rpx;
+  line-height: 1;
+  color: var(--tn-color-gray);
+  margin-top: 20rpx;
+}
+.tn-tn-comment-list__show-more-operation--tips.data-v-2c7daae8 {
+  position: relative;
+  margin-left: 76rpx;
+}
+.tn-tn-comment-list__show-more-operation--tips.data-v-2c7daae8::before {
+  content: "";
+  width: 60rpx;
+  height: 2rpx;
+  border-radius: 80rpx;
+  background-color: var(--tn-color-gray);
+  position: absolute;
+  left: -16rpx;
+  top: 50%;
+  transform: translate(-100%, -50%);
+}
+.tn-tn-comment-list__show-more-operation--icon.data-v-2c7daae8 {
+  margin-top: 4rpx;
+  margin-left: 6rpx;
+}
+.tn-tn-comment-list__nickname.data-v-2c7daae8 {
+  font-size: 26rpx;
+  color: var(--tn-color-gray);
+  text-align: justify;
+  overflow-wrap: break-word;
+}
+.tn-tn-comment-list__content.data-v-2c7daae8 {
+  margin-top: 10rpx;
+  text-align: justify;
+  overflow-wrap: break-word;
+}
+.tn-tn-comment-list__bottom-operation.data-v-2c7daae8 {
+  margin-top: 10rpx;
+  position: relative;
+  width: 100%;
+}
+.tn-tn-comment-list__reply-nickname.data-v-2c7daae8 {
+  display: flex;
+  align-items: center;
+}
+.tn-tn-comment-list__reply-nickname .author-nickname.data-v-2c7daae8 {
+  position: relative;
+  margin-left: 40rpx;
+}
+.tn-tn-comment-list__reply-nickname .author-nickname.data-v-2c7daae8::before {
+  content: "";
+  width: 0rpx;
+  height: 0rpx;
+  border-color: transparent transparent transparent var(--tn-color-gray);
+  border-style: solid;
+  border-width: 10rpx;
+  position: absolute;
+  left: -14rpx;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

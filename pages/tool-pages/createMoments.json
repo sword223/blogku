@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "发布瞬间",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tn-navbar": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/navbar/src/navbar",
+    "tn-input": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/input/src/input",
+    "select-tags": "../../node-modules/tnuiv3p-tn-select-tags/index",
+    "tn-image-upload": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/image-upload/src/image-upload",
+    "tn-button": "../../node-modules/@tuniao/tnui-vue3-uniapp/components/button/src/button",
+    "empty": "../../components/empty"
+  }
+}
